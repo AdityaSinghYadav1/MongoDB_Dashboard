@@ -1,4 +1,4 @@
-# Dashboard on Social Media Usage Pattern
+# Dashboard on Social Media Usage Pattern (https://charts.mongodb.com/charts-project-0-vzguajj/public/dashboards/75b7df3a-b82c-4d4c-8ea2-e3297874f470)
 # Objective
 The primary objective of this project is to analyze and visualize social media usage patterns across various platforms. This includes understanding user engagement metrics such as time spent on apps, user distribution, interactions (likes, follows), and overall trends in social media behavior. The insights derived from this analysis can inform strategies for improving user engagement and optimizing content delivery
 # Dashboard
